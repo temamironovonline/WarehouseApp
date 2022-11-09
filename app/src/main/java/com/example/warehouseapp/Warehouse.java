@@ -6,16 +6,16 @@ public class Warehouse {
     int idProduct;
     String nameProduct;
     String typeProduct;
-    int countProduct;
-    int priceProduct;
-    Bitmap photoProduct;
+    String countProduct;
+    String priceProduct;
+   // Bitmap photoProduct;
 
-    Warehouse(int idProduct, String nameProduct, String typeProduct, int countProduct, int priceProduct, Bitmap photoProduct){
+    Warehouse(int idProduct, String nameProduct, String typeProduct, String countProduct, String priceProduct){
         this.idProduct = idProduct;
         this.nameProduct = nameProduct;
         this.typeProduct = typeProduct;
         this.countProduct = countProduct;
         this.priceProduct = priceProduct;
-        this.photoProduct = photoProduct;
+        //this.photoProduct = photoProduct;
     }
 }

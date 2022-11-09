@@ -4,4 +4,13 @@
     <string name="typeProduct">Категория</string>
     <string name="countProduct">Количество</string>
     <string name="priceProduct">Цена</string>
+
+    <string name="searchByProductName">Поиск по названию автомобиля</string>
+    <string name="sortByCountOrPrice">Сортировка</string>
+    <string name="clearButton">Очистить</string>
+    <string name="updateButton">Обновить</string>
+    <string name="deleteButton">Удалить</string>
+    <string name="photoProduct">Фотография товара</string>
+    <string name="addButton">Добавить</string>
+    <string name="readButton">Вывести</string>
 </resources>
